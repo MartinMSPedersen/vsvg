@@ -40,7 +40,7 @@ cd vsvg
 
 ### Running the sketch examples
 
-See *whiskers*'s [README.md](whiskers/README.md).
+See *whiskers*'s [README.md](blob/master/crates/whiskers/README.md).
 
 ### Installing *vsvg-cli*
 
